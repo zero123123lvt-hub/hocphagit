@@ -1,5 +1,5 @@
 🔗 ĐỀ TÀI.<br> 
- # SEAL – Software Engineering Hackathon Management System
+ # SEAL – Software Engineering Hackathon Management System ( Hệ thống quản lý cuộc thi SEAL Hackathon ngành Kỹ thuật Phần mềm)
 
 ## Thông tin dự án
 
@@ -26,8 +26,7 @@ Code/      : Mã nguồn dự án
 DOCX/      : Tài liệu dự án
 ```
 
-## Thành viên nhóm
-
+## Tiến độ và nhiệm vụ  
 | Vai trò           | Nhiệm vụ               |
 | ----------------- | ---------------------- |
 | Phân tích yêu cầu | Requirement Analysis   |
