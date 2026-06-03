@@ -3,10 +3,8 @@
 
 ## Thông tin dự án
 
-* Mã đề tài: SU26SWP04
 * Tên đề tài: SEAL – Software Engineering Hackathon Management System
-* Môn học: SWP
-* Nhóm: Nhóm 5
+* Nhóm: Java
 
 ## Mô tả
 
@@ -32,7 +30,6 @@ DOCX/      : Tài liệu dự án
 
 | Vai trò           | Nhiệm vụ               |
 | ----------------- | ---------------------- |
-| Team Leader       | Quản lý dự án, GitHub  |
 | Phân tích yêu cầu | Requirement Analysis   |
 | Use Case Diagram  | Thiết kế Use Case      |
 | Activity Diagram  | Thiết kế Activity      |
